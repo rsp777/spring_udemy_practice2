@@ -8,6 +8,10 @@
 </head>
 <body>
 	<h2>Spring MVC Demo - HomePage</h2>
-	<a href = "showForm">Main Menu</a>
+	<a href = "funny/showForm">Hello World</a>
+	<br>
+	<a href = "student/showForm">Student Form</a>
+	<br>
+	<a href = "customers/showForm">Customer Form</a>
 </body>
 </html>
