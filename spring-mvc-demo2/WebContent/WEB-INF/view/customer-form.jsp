@@ -14,7 +14,7 @@
 	<h1>Customer Validation Example</h1>
 	<i>Fill out the form. Asterisks(*) means required.</i>
 	<form:form action = "processForm" modelAttribute="customer">
-		First Name : <form:input path = "firstName"/>
+		  First Name : <form:input path = "firstName"/>
 		<br><br>
 		  LastName<font color="red">*</font> : <form:input path = "lastName"/>
 		  <form:errors path = "lastName" cssClass = "error"/>

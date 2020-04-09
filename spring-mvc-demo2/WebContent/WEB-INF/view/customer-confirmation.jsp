@@ -7,7 +7,7 @@
 <title>Customer Validation Example</title>
 </head>
 <body>
-	<h1>Customer Validation Example</h1>
+    <h1>Customer Validation Example</h1>
 	<h3>The <i>customer</i> is confirmed : ${customer.firstName} ${customer.lastName}.
 </body>
 </html>
